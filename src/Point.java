@@ -1,3 +1,5 @@
+package src;
+
 /**
  * Simple point class for direction (each direction can store a probability score of being chosen).
  */

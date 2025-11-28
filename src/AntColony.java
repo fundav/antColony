@@ -1,3 +1,5 @@
+package src;
+
 import acm.graphics.GOval;
 import acm.graphics.GPolygon;
 import acm.graphics.GRect;

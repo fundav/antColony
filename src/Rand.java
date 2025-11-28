@@ -1,3 +1,5 @@
+package src;
+
 import java.util.ArrayList;
 import acm.util.RandomGenerator;
 
